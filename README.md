@@ -1,1 +1,26 @@
-# Marxgotwrong
+# Marx’s Top Mistakes in his Economic Theories
+
+
+1. **There is no scarcity in nature.** Marx’s primitive communism and ideas he got from Rousseau puts across the idea that nature is abundant, peaceful and protective. If there is scarcity in a society, it must be because certain classes and the institutions behind them, make it that way. His theories assume class conflict and ignores scarcity.
+2. **Marx frowns on Adam Smith’s division of labour.** While Marx admits that division of labour helps an economy, he points out that it hurts society by alienating the workers in it while also making work tasks simple and repetitive. Marx’s theories therefore, ignores specialisation of workers, skilled labour and the scarcity of those skilled labourers. His theories disregards ability for skilled labourers to demand for higher wages. 
+3. **Ignores innovations.** Division of labour focuses on breaking up parts of a complicated process into simple parts. Smith gave examples of innovations that improve production once those parts have been broken down and people “focused their whole minds” on innovating them. The concept of innovation is very much absent from Marx’s work and he does not identify man’s reason as the force behind innovation.
+4. **Ignores entrepreneurs.** The division of labour also applies to people’s professions and needs in markets. Marx ignores how entrepreneurs identify needs and opportunities in the market that as a result, create companies that hire workers. Marx would rather believe that companies are more likely to consolidated into monopolies than be created.
+5. **Ignores talent.** While things like the Pareto Principle or Price’s Law came after Marx, he disregards the notion that some people can be more productive than other at the same task. Marx does not have the concept that some individuals can contribute more than others and his theories are generally more collectivist than individualist. Scarce talent is another way for labourers to demand higher wages.
+6. **Contradictions as a Philosophy.** Marx’s theories are at their core, based on ‘contradictions’ found in the dialectical process. Here are some of the top contradictions in his theories: 
+* Workers are both the most profitable component for a company and at the same time, the most expensive.
+* Surplus value somehow goes up while prices go down due to competition
+* Everything is labour even if its incredibly different like a scientist inventing a machine and an unskilled labourer digging a hole. 
+* We've had over 20,000 years of labour with no real wealth, but labour is the only reason we have so much wealth now.
+* Multiplying by 'infinity' to the C part of LTV in order to achieve the communism stage of society.
+* Capitalists need to spend all their money on capital investments to be able to concentrate all money in society.
+* Capitalists are after more surplus value and at the same time, displace and ultimately destroy the source of surplus value.
+* A labourer's wages is just a previous labourer's labour time
+7. **Doesn't apply to service sector.** Marx didn’t see services as productive labour as they did not produce commodities.  All 1st world economies have over 80% of their workforce employed in the service sector.
+8. **Ignores scarcity in commodity products.** Marx’s theories do not consider concepts like supply or demand and only focus on the value in commodities created by labour. It does not consider two houses that are built exactly the same way, one in the city and one in the country side as being of different value. 
+9. **Ignores risk in markets.** Marx did not consider possibilities of commodity products not being sold, delayed in payments, capital investments being written off, businesses not working out and in general, the concept of risk being taken on by business owners.
+10. **Ignores the flow of trade.** In Wealth of Nations, Smith stressed the ease of trade as an underpinning for the division of labour coming about. Specifically, he mentioned money and institutions that increase the speed and ease of trade. The speed and easy of trade and the ‘flow of production’ have an exponential network effect which is what Smith considered to be the real wealth of a nation. Marx’s theories do not acknowledge these points and even would like to abolish some of those institutions and certainly money and centralise and collectivise these functions.
+11. **C / V** - An increase in constant capital over time, does not reduce the variable capital over time. There have been studies that prove that across industries and economies, companies biggest expense is wages and not machines. This could be to do with companies trying to innovate and expand into new fields, products and services over time to diversify and decommodify their offering which requires hiring new workers.
+12. **Workers can own shares** and use their wages to make capital investments, such as in the case of saving for their retirements. Marx expected workers to only hover around subsistence wages.
+13. **Ignore human life.** Marx was smart enough to know that his ideas would lead to mass violence, death and destruction - Engles confirmed it after his death. This could be to do with his dehumanising concept of false consciousness or dehumanising people as part of the old super structure that needs to be moved out of the way.
+
+
